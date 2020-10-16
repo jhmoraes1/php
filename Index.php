@@ -1,5 +1,5 @@
 <?php 
 
-echo "<strong>Jefferson Henrique de Moraes</strong>";
+echo "<strong>Jefferson Moraes</strong>";
 
 ?>
